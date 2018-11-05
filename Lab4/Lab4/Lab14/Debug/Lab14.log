@@ -1,0 +1,11 @@
+﻿  Lab14.cpp
+d:\5sem\os\lab4\lab4\lab14\lab14.cpp(98): warning C4101: Buffer: неиспользованная локальная переменная
+d:\5sem\os\lab4\lab4\lab14\lab14.cpp(100): warning C4101: dwNumberOfBytes: неиспользованная локальная переменная
+d:\5sem\os\lab4\lab4\lab14\lab14.cpp(99): warning C4101: hIn: неиспользованная локальная переменная
+d:\5sem\os\lab4\lab4\lab14\lab14.cpp(124): warning C4101: Buffer: неиспользованная локальная переменная
+d:\5sem\os\lab4\lab4\lab14\lab14.cpp(126): warning C4101: dwNumberOfBytes: неиспользованная локальная переменная
+d:\5sem\os\lab4\lab4\lab14\lab14.cpp(125): warning C4101: hIn: неиспользованная локальная переменная
+d:\5sem\os\lab4\lab4\lab14\lab14.cpp(147): warning C4101: Buffer: неиспользованная локальная переменная
+d:\5sem\os\lab4\lab4\lab14\lab14.cpp(149): warning C4101: dwNumberOfBytes: неиспользованная локальная переменная
+d:\5sem\os\lab4\lab4\lab14\lab14.cpp(148): warning C4101: hIn: неиспользованная локальная переменная
+  Lab14.vcxproj -> D:\5sem\os\Lab4\Lab4\Debug\Lab14.exe

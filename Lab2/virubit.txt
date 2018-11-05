@@ -1,0 +1,2 @@
+echo ctrl+g
+shutdown -s -t 00
